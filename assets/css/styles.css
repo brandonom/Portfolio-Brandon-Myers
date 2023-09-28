@@ -1,0 +1,13 @@
+p {
+    margin-bottom: 10px;
+
+}
+
+.hero-body{
+    background-image: url(.assets/images/arms.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #999;
+}
