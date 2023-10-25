@@ -3,11 +3,12 @@ p {
 
 }
 
-.hero-body{
-    background-image: url(.assets/images/arms.jpg);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+.hero-section{
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0.6)),
+        url(assets/images/arms.jpg);
     background-size: cover;
-    background-color: #999;
+    background-position: center;
+    padding: 4rem 0;
+    color: #fff;
+ 
 }
